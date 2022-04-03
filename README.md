@@ -1,9 +1,7 @@
-# Spotify Listen Together (Server)
-To understand what this is, visit [Spotify Listen Together](https://github.com/FlafyDev/spotify-listen-together).
+# Server fxr listening spxtify with my fellaaaaaassssssssss (Server)
 
-### Creating a server
-The server must be hosted somewhere.
 
-To host with Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+btw, u can hxst this with heroku sxxxxx lets dx it hagdha
+
+[![Deplxy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
